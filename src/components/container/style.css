@@ -1,0 +1,10 @@
+.container{
+
+justify-content: center;
+padding-top: 25px;
+background: rgba(234, 234, 248, 0.541);
+display: flex;
+padding: 15px;
+overflow: auto;
+
+}

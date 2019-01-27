@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "image": "/images/arnold.jpg",
+        "isClicked":false
+    },
+    {
+        "id":2,
+        "image": "/images/bb8.JPG",
+        "isClicked":false
+    },
+    {
+        "id":3,
+        "image": "/images/dagget.jpg",
+        "isClicked":false
+    },
+    {
+        "id":4,
+        "image": "/images/disguise.png",
+        "isClicked":false
+    },
+    {
+        "id":5,
+        "image": "/images/gaz.png",
+        "isClicked":false
+    },
+    {
+        "id":6,
+        "image": "/images/gir.png",
+        "isClicked":false
+    },
+    {
+        "id":7,
+        "image": "/images/Heffer.png",
+        "isClicked":false
+    },
+    {
+        "id":8,
+        "image": "/images/Iz_dib_8618.png",
+        "isClicked":false
+    },
+    {
+        "id":9,
+        "image": "/images/norbert.png",
+        "isClicked":false
+    },
+    {
+        "id":10,
+        "image": "/images/r2.jpg",
+        "isClicked":false
+    },
+    {
+        "id":11,
+        "image": "/images/rocko.png",
+        "isClicked":false
+    },
+    {
+        "id":12,
+        "image": "/images/zim.jpg",
+        "isClicked":false
+    }
+]

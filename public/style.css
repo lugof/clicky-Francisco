@@ -1,0 +1,15 @@
+.header{
+
+    background-color: #2c323c;
+    background-image: "./images/crayons.jpg";
+    color:white;
+    min-height: 400px;
+    padding: 180px 20px;
+    text-align: center;
+}
+
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}

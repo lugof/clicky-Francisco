@@ -1,0 +1,20 @@
+.card {
+    background: rgba(255, 255, 255, 0.61);
+    height: 175px;
+    margin: 2rem;
+    position: relative;
+    width: 100px;
+    text-align: left;
+  }
+
+  .img-thumbnail{
+    margin:0 auto;
+    height:215px;
+    width:100%;
+    object-fit: cover;
+  }
+
+  .image{
+
+    box-sizing: border-box;
+  }
